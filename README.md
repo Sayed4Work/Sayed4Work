@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Sayed — Developer and cybersecurity enthusiast
+
+I mostly work on building websites and developing cybersecurity related things.
+
+This account contains practical projects demonstrating my skills and knowlege in both programming and cybersecurity.
+
+---
 Tools & Tech
 - Langauges: Golang, Javascript, Python, Rust
 - Libraries & Frameworks: Nextjs, React
@@ -22,4 +29,3 @@ Tools & Tech
   
 - 🔭 I’m currently working on programming and cybersecurity
 - 🌱 I’m currently learning new languages and machine learning
-- 
