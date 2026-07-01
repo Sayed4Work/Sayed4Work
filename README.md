@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Tools & Tech
+- Langauges: Golang, Javascript, Python, Rust
+- Libraries & Frameworks: Nextjs, React
+
+---
+  
+- 🔭 I’m currently working on programming and cybersecurity
+- 🌱 I’m currently learning new languages and machine learning
+- 
